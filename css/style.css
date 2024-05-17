@@ -1,0 +1,25 @@
+body {
+  background-color: azure;
+  width: 50%;
+  margin-left: 25%;
+}
+
+fieldset {
+  background: linear-gradient(90deg, beige, aquamarine, bisque);
+}
+
+input {
+    margin-left: 20px;
+}
+
+.botones {
+  display: inline;
+}
+
+button {
+  margin-right: 30px;
+}
+
+.checkbox {
+    margin-left: 0px;
+}
